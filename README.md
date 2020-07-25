@@ -38,4 +38,10 @@ Your goal is to predict the total_cases label for each (city, year, weekofyear) 
 * xgboost
 * matplotlib
 
+------
+
+## Ladder Board
+<!-- Image -->
+![Ladder_Board](https://user-images.githubusercontent.com/57441828/88457401-51b55800-ce86-11ea-8b4c-43d66943b5a6.PNG)
+
 
